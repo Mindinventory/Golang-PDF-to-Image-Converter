@@ -34,7 +34,7 @@ go run main.go
 ```
 
 ## PDF Sample
-<img src="./img/sample/image-00000.jpg">
+<img src="./img/sample/image-00000.png">
 <object data="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf">Download PDF</a>.</p>
@@ -46,7 +46,7 @@ go run main.go
 
 ## LICENSE
 
-Golang HTML to PDF Converter is [MIT-licensed](https://github.com/mindinventory/Golang-HTMLTOPDF-Converter/blob/master/LICENSE)
+Golang HTML to PDF Converter is [MIT-licensed](https://github.com/mindinventory/golang-pdf-to-Image-converter/blob/main/LICENSE)
 
 ## Let us know
 We’d be really happy if you sent us links to your projects where you use our component. Just email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
