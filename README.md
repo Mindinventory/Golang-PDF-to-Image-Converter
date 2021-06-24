@@ -34,10 +34,15 @@ go run main.go
 ```
 
 ## PDF Sample
-<img src="https://raw.githubusercontent.com/Mindinventory/Golang-HTML-TO-PDF-Converter/master/pdf/sample.pdf">
+<img src="./img/sample/image-00000.jpg">
+<object data="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Mindinventory/golang-pdf-to-Image-converter/raw/main/pdf/sample.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Converted Image Sample
-<img src="https://raw.githubusercontent.com/Mindinventory/Golang-HTML-TO-PDF-Converter/master/img/sample/image-00000.jpg">
+<img src="./img/sample/image-00000.jpg">
 
 ## LICENSE
 
