@@ -1,6 +1,6 @@
 # PDF to Image Converter Using Golang
 
-<a href="https://godoc.org/fyne.io/fyne" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
+<a href="https://pkg.go.dev/github.com/karmdip-mi/go-fitz" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
 <a href="https://goreportcard.com/report/github.com/Mindinventory/Golang-PDF-to-Image-Converter" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/Golang-PDF-to-Image-Converter"></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-PDF-to-Image-Converter/blob/master/LICENSE)
 
