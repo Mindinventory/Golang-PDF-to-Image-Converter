@@ -1,8 +1,8 @@
 # PDF to Image Converter Using Golang
-<a href="https://travis-ci.org/Mindinventory/Golang-HTML-TO-PDF-Converter" style="pointer-events: none;" target="_blank"><img src="https://travis-ci.org/Mindinventory/Golang-HTML-TO-PDF-Converter.svg?branch=master"></a>
+
 <a href="https://godoc.org/fyne.io/fyne" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
-<a href="https://goreportcard.com/report/github.com/Mindinventory/golang-pdf-to-Image-converter" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/golang-pdf-to-Image-converter"></a>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-HTML-TO-PDF-Converter/blob/master/LICENSE)
+<a href="https://goreportcard.com/report/github.com/Mindinventory/Golang-PDF-to-Image-Converter" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/Golang-PDF-to-Image-Converter"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-PDF-to-Image-Converter/blob/master/LICENSE)
 
 This project is meant to be an **support** for implementation of **PDF-to-IMAGES** conversion without any quality compromising. Our goal for the viewer is to understand the core principles that go behind the development of such a complex conversion model and the nuances of training the individual processes for conversion with same quality. Once the core principles are understood, the various parts of the conversion process can be available at any time for usage in any project.
 
@@ -11,7 +11,7 @@ This project is meant to be an **support** for implementation of **PDF-to-IMAGES
 - [Contents](#contents)
 - [Overview](#overview)
 - [Quickstart](#quickstart)
-- [PDF Sample](#pdf-sSample)
+- [PDF Sample](#pdf-sample)
 - [Converted Image Sample](#converted-image-sample)
 - [LICENSE](#license)
 - [Let us know](#let-us-know)
