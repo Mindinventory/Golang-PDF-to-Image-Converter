@@ -1,0 +1,15 @@
+
+language: go
+
+go:
+  - "1.16"
+
+os:
+  - linux
+
+dist: trusty
+sudo: false
+install: true
+
+script:
+  - unset GOPATH
