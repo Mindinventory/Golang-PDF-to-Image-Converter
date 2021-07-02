@@ -1,7 +1,10 @@
-# Pdf-To-Image: Using golang generate images file from pdf file without any quality compromise.
+# PDF to Image Converter Using Golang
+<a href="https://travis-ci.org/Mindinventory/Golang-HTML-TO-PDF-Converter" style="pointer-events: none;" target="_blank"><img src="https://travis-ci.org/Mindinventory/Golang-HTML-TO-PDF-Converter.svg?branch=master"></a>
+<a href="https://godoc.org/fyne.io/fyne" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
+<a href="https://goreportcard.com/report/github.com/Mindinventory/golang-pdf-to-Image-converter" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/golang-pdf-to-Image-converter"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-HTML-TO-PDF-Converter/blob/master/LICENSE)
 
-
-This project is meant to be an **support** for implementation of **PDF-to-IMAGES** conversion without any quality compromising. My goal for the viewer is to understand the core principles that go behind the development of such a complex conversion model and the nuances of training the individual processes for conversion with same quality. Once the core principles are understood, the various parts of the conversion process can be available at any time for usage in any project.
+This project is meant to be an **support** for implementation of **PDF-to-IMAGES** conversion without any quality compromising. Our goal for the viewer is to understand the core principles that go behind the development of such a complex conversion model and the nuances of training the individual processes for conversion with same quality. Once the core principles are understood, the various parts of the conversion process can be available at any time for usage in any project.
 
 
 ## Contents
@@ -22,7 +25,7 @@ Those who have done conversions from PDF to IMAGES, this repo will be very benef
 3. As soon as the conversion program runs the images will generate in **img** folder inside the folder having name same as PDF file name.
 4. Whatever the number of pages in PDF file same number of images will generate inside the **img/{PDF_NAME}** folder.
 
-Now let me elaborate the Basic setup steps.
+Now let us elaborate the Basic setup steps.
 
 ## Quickstart
 
