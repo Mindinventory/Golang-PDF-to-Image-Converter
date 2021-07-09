@@ -57,4 +57,4 @@ go run main.go
 Golang HTML to PDF Converter is [MIT-licensed](https://github.com/mindinventory/golang-pdf-to-Image-converter/blob/main/LICENSE)
 
 ## Let us know
-We’d be really happy if you sent us links to your projects where you use our component. Just email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
+We’d be really happy if you sent us links to your projects where you use our component. Just email to sales@mindinventory.com and do let us know if you have any questions or suggestion regarding our work.
