@@ -1,5 +1,5 @@
 module pdfToImgProject
 
-go 1.15
+go 1.22
 
-require github.com/karmdip-mi/go-fitz v0.0.0-20210316172528-f0a07eb93909
+require github.com/gen2brain/go-fitz v1.23.7

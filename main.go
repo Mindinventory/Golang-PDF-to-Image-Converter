@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/karmdip-mi/go-fitz"
 	"image/jpeg"
 	"os"
 	"path"
 	"path/filepath"
 	"strings"
+
+	"github.com/gen2brain/go-fitz"
 )
 
 func main() {

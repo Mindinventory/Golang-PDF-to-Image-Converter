@@ -1,6 +1,6 @@
 # PDF to Image Converter Using Golang
 
-<a href="https://pkg.go.dev/github.com/karmdip-mi/go-fitz" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
+<a href="https://pkg.go.dev/github.com/gen2brain/go-fitz" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
 <a href="https://goreportcard.com/report/github.com/Mindinventory/Golang-PDF-to-Image-Converter" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/Golang-PDF-to-Image-Converter"></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-PDF-to-Image-Converter/blob/master/LICENSE)
 
@@ -32,7 +32,7 @@ Now let us elaborate the Basic setup steps.
 For those who just want to see converted images, follow the overview steps and run the following code (make sure you have installed the stable **go** in your system):
 
 ```bash
-go get
+go mod tidy
 go run main.go
 ```
 
